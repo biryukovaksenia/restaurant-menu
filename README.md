@@ -13,15 +13,7 @@ This project is a restaurant menu web application that allows users to view menu
 
 - **Frontend**: React, Styled-components, FontAwesome
 - **Backend**: FastAPI, Python
-- **Other**: Axios for API requests, React Router for navigation
-
-
-## API Endpoints
-The following are some of the key API endpoints:
-
-- GET /menu: Fetch all menu items.
-- POST /order: Place an order.
-- POST /call-waiter: Call a waiter.
+- **Other**: Axios for API requests
 
 ## Getting Started
 
